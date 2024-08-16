@@ -1,2 +1,0 @@
-# callbomber
-hakan babapiro
